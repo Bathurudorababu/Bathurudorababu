@@ -21,7 +21,7 @@
 
 ### 📌 Projects
 
-- 🔹 [User & Property Backend API](https://github.com/Bathurudorababu/user-property-backend-api) – Dockerized backend system with FastAPI, PostgreSQL & MongoDB  
+- 🔹 [User & Property Backend API](https://github.com/Bathurudorababu/user-management-backend-api) – Dockerized backend system with FastAPI, PostgreSQL & MongoDB  
 - 🔹 More coming soon...
 
 ---
