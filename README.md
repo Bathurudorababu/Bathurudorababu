@@ -21,7 +21,7 @@
 
 ### 📌 Projects
 
-- 🔹 [User Management Backend API](https://github.com/Bathurudorababu/user-management-backend-api) – Loacl backend system with FastAPI, PostgreSQL & MongoDB  
+- 🔹 [User Management Backend API](https://github.com/Bathurudorababu/user-management-backend-api) – Local backend system with FastAPI, PostgreSQL & MongoDB  
 - 🔹 More coming soon...
 
 ---
