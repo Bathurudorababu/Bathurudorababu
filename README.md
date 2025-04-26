@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bathuru Dorababu</h1>
-<h3 align="center">Backend Developer | FastAPI | PostgreSQL | Docker | MongoDB</h3>
+<h3 align="center">Backend Developer | Python | FastAPI | PostgreSQL | Docker | MongoDB</h3>
 
 ---
 
