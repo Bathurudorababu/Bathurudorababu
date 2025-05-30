@@ -13,7 +13,7 @@
 ### 🔧 Tech Stack
 
 - 🚀 **Languages**: Python, Java, C, SQL  
-- 🛠️ **Frameworks/Tools**: FastAPI, Docker, Postman, Git  
+- 🛠️ **Frameworks/Tools**: FastAPI, Django, Django REST Framework, Docker, Postman, Git  
 - 🗄️ **Databases**: PostgreSQL, PostGIS, MongoDB  
 - 🌐 **Concepts**: REST APIs, Microservices, API Design, Backend Architecture
 
