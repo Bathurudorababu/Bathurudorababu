@@ -1,37 +1,68 @@
-<h1 align="center">Hi 👋, I'm Bathuru Dorababu</h1>
-<h3 align="center">Backend Developer | Python | FastAPI | PostgreSQL | Docker | MongoDB</h3>
+# 👋 Hi, I'm **Bathuru Dorababu**
+
+### 🧑‍💻 Backend Developer | Python | FastAPI | PostgreSQL | MongoDB | Docker  
+🎓 B.Tech in Computer Science Engineering  
+📍 Based in Kochi, India  
+🚀 Passionate about building scalable, production-grade APIs and geospatial systems.
 
 ---
 
-🎓 **B.Tech in Computer Science Engineering**  
-📍 Based in Gudur, India  
-🚀 Passionate about building scalable APIs, geospatial databases, and clean backend systems  
-💼 Open to full-time opportunities in backend development  
+## 🧠 About Me
+I’m a **Backend Developer** with hands-on experience designing, building, and deploying REST APIs using **FastAPI**, **Django**, **PostgreSQL/PostGIS**, and **MongoDB**.  
+Focused on **clean architecture**, **query optimization**, and **production readiness** with tools like **Docker**, **PM2**, and **Caddy**.  
+Delivered **10+ real-world APIs**, improved query performance by **35%**, and automated deployments with **zero downtime**.
 
 ---
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
-- 🚀 **Languages**: Python, Java, C, SQL  
-- 🛠️ **Frameworks/Tools**: FastAPI, Django, Django REST Framework, Docker, Postman, Git  
-- 🗄️ **Databases**: PostgreSQL, PostGIS, MongoDB  
-- 🌐 **Concepts**: REST APIs, Microservices, API Design, Backend Architecture
+**Languages:**  
+🐍 Python | ☕ Java (Basic) | 💻 C (Basic) | 🧮 SQL  
 
----
+**Frameworks:**  
+⚡ FastAPI | 🧱 Django | 🧩 Django REST Framework  
 
-### 📌 Projects
+**Databases:**  
+🗄️ PostgreSQL | 🗺️ PostGIS | 🍃 MongoDB  
 
-- 🔹 [User Management Backend API](https://github.com/Bathurudorababu/user-management-backend-api) – Local dockerized backend system with FastAPI & MongoDB  
-- 🔹 More coming soon...
+**DevOps & Tools:**  
+🐳 Docker | ☁️ AWS EC2 | 🪶 PM2 | 🧭 Caddy/Nginx | ⚙️ GitHub Actions | 📬 Postman | 🧠 Git  
 
----
-
-### 📫 How to reach me:
-- ✉️ Email: dorababubathuru@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/bathurudorababu](https://linkedin.com/in/bathurudorababu)  
-- 🐙 GitHub: [github.com/bathurudorababu](https://github.com/bathurudorababu)
+**Core Concepts:**  
+🔗 RESTful API Design | 🏗️ Backend Architecture | 📊 Database Optimization | 🌍 Geospatial Queries  
 
 ---
 
-⭐️ Thanks for visiting my profile! Feel free to check out my projects or connect with me. Let's build something cool!
+## 📦 Featured Projects
 
+### 🟡 **Gold Trading Telegram Bot**
+**Tech:** FastAPI • MongoDB • Telegram API  
+Built a Telegram-based trading system allowing users to **buy/sell gold**, track **live prices**, manage **wallets**, and monitor **transactions** — with admin approvals and real-time P&L tracking.  
+Planned upgrades include **KYC automation** and **conditional orders**.  
+🔗 **Demo:** [dorababu.lovable.app](https://dorababu.lovable.app)
+
+---
+
+### 🧩 **User Management Backend API**
+**Tech:** FastAPI • MongoDB  
+Developed a **JWT-secured authentication system** with user registration, login/logout, and current user endpoints.  
+Integrated **Swagger UI** for live documentation and testing.  
+🔗 **GitHub Repo:** [github.com/Bathurudorababu](https://github.com/Bathurudorababu)
+
+---
+
+## 📊 GitHub Stats
+![Dorababu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bathurudorababu&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bathurudorababu&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+✉️ **Email:** [dorababubathuru@gmail.com](mailto:dorababubathuru@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/bathurudorababu](https://linkedin.com/in/bathurudorababu)  
+🐙 **GitHub:** [github.com/Bathurudorababu](https://github.com/Bathurudorababu)  
+🌍 **Portfolio:** [dorababu.lovable.app](https://dorababu.lovable.app)
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my projects or connect with me — let's build something cool together!*
